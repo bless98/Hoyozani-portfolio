@@ -1,0 +1,22 @@
+
+h2{
+    
+    padding-top: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    
+  }
+
+  p {
+    font-family: 'Arial', sans-serif; /* Sets the font family */
+    font-size: 16px;                  /* Sets the font size */
+    font-style: normal;               /* Sets the font style (normal, italic, oblique) */
+    font-weight: normal;                /* Sets the font weight (normal, bold, bolder, lighter, or numeric values) */
+  }
+  
+  body {
+    background-color: #f19090;
+  }
